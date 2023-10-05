@@ -9,6 +9,8 @@ I'm currently studying:
 
 📊 Data structures and algorithms, design patterns
 
+👾 Computer graphics & shaders
+
 🍩 Blender, pixel art
 
 🎮 Unity, Unreal Engine
