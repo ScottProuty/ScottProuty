@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-Welcome to my GitHub profile! I'm still working on adding more content here.
+Thanks for visiting my GitHub profile! 
+I'm looking to get involved in more open source projects. 
+
+I'm currently studying:
+👨‍💻 C#, JavaScript, Python
+📊 Data structures and algorithms, design patterns
+🍩 Blender, pixel art
+🎮 Unity, Unreal Engine
+
 
 <!--
 **ScottProuty/ScottProuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
